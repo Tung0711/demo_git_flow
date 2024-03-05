@@ -1,0 +1,19 @@
+/*id*/
+#first-heading {
+    color: red;
+    font-size: 30px;
+}
+/*.class1.class2*/
+.second.heading {
+    color: aqua;
+    font-size: 25px;
+}
+/*.class1 .class2*/
+.box .second-heading {
+    color: blue;
+    font-size: 20px;
+}
+/**{
+    color: red;
+    font-size: 30px;
+}*/
